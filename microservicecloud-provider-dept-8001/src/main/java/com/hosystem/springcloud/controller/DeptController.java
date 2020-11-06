@@ -3,7 +3,6 @@ package com.hosystem.springcloud.controller;
 import java.util.List;
 import com.hosystem.springcloud.entities.Dept;
 import com.hosystem.springcloud.service.DeptService;
-import org.apache.ibatis.annotations.Select;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
