@@ -16,7 +16,9 @@ public class DeptController_Consumer {
      *  使用restTemplate访问restful接口非常的简单;
      *  (url, requestMap, ResponseBean.class)三个参数代表REST请求地址、请求参数、HTTP响应转换被转换成的对象类型
      */
-    private static final String REST_URL_PREFIX = "http://localhost:8001";
+//    private static final String REST_URL_PREFIX = "http://localhost:8001";
+    //修改为微服务名 实现名字访问微服务
+    private static final String REST_URL_PREFIX = "http://MICROSERVICECLOUD-DEPT";
 
     @Autowired
     private RestTemplate restTemplate;
