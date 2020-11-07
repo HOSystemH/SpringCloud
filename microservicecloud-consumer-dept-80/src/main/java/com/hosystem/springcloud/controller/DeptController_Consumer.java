@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestTemplate;
 
 
+@RestController //注:这里一定不能忘记注解@RestController 否则出现404;
 public class DeptController_Consumer {
 
     /**
