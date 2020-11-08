@@ -7,7 +7,7 @@ mybatis:
   mapper-locations:
   - classpath:mybatis/mapper/**/*.xml                       # mapper映射文件
 
-#name spring.application.name=microservicecloud-dept  很重要很重要很重要
+#name spring.application.name=microservicecloud-dept   很重要很重要很重要
 spring:
    application:
     name: microservicecloud-dept
