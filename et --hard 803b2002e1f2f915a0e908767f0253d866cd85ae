@@ -1,0 +1,119 @@
+[33mcommit c274aa68da6327d767630843a1ced112e67a44df[m[33m ([m[1;36mHEAD -> [m[1;32mBranch[m[33m, [m[1;31morigin/Branch[m[33m)[m
+Author: hosystemh <hosystem@163.com>
+Date:   Tue Nov 10 19:55:22 2020 +0800
+
+    Springcloud
+
+[33mcommit 803b2002e1f2f915a0e908767f0253d866cd85ae[m
+Author: pluto <pluto@aliyun.com>
+Date:   Sun Nov 8 20:30:36 2020 +0800
+
+    Feign配置
+
+[33mcommit 55ce1475ffd74f3e1d50f8ed2d68df4213f7168f[m
+Author: pluto <pluto@aliyun.com>
+Date:   Sun Nov 8 20:20:05 2020 +0800
+
+    Feign负载均衡
+
+[33mcommit e514d284ea9867f65aa72f5cc4dd41592a237c2d[m
+Author: pluto <pluto@aliyun.com>
+Date:   Sun Nov 8 18:33:55 2020 +0800
+
+    Ribbon定制
+
+[33mcommit a3c0a167e39a118c43fd658f7b1572a75b423574[m
+Author: pluto <pluto@aliyun.com>
+Date:   Sun Nov 8 15:09:52 2020 +0800
+
+    初步配置Ribbon
+
+[33mcommit 3a4499397d0be1f0e893a6b59424d363c017cd13[m
+Author: pluto <pluto@aliyun.com>
+Date:   Sun Nov 8 13:13:39 2020 +0800
+
+    初步配置Ribbon
+
+[33mcommit b7109c34fb02c1adfdccd75929d86119f14558de[m
+Author: pluto <pluto@aliyun.com>
+Date:   Sat Nov 7 17:02:29 2020 +0800
+
+    初步配置Ribbon
+
+[33mcommit 8b82ffd8841d69a52303e18de68ec241aa412c00[m
+Author: pluto <pluto@aliyun.com>
+Date:   Sat Nov 7 15:08:29 2020 +0800
+
+    eureka使用
+
+[33mcommit e0d04962d5616d870b85846353260adcd2a94ee3[m
+Author: pluto <pluto@aliyun.com>
+Date:   Sat Nov 7 14:42:42 2020 +0800
+
+    配置eureka7001、eureka7002、eureka7003
+
+[33mcommit 8fd77518e131b2a52c724a111c86e5e6e3860d32[m
+Author: pluto <pluto@aliyun.com>
+Date:   Sat Nov 7 12:03:18 2020 +0800
+
+    父工程pom配置<build>
+
+[33mcommit 3fb9263ed2866d0381e561506c2ea366ca1358d9[m
+Author: pluto <pluto@aliyun.com>
+Date:   Sat Nov 7 11:59:12 2020 +0800
+
+    microservicecloud-provider-dept-8001 actuator监控信息完善
+
+[33mcommit 297608c8770b45f81c48aa19eaa01b5ad478743f[m
+Author: pluto <pluto@aliyun.com>
+Date:   Sat Nov 7 11:11:34 2020 +0800
+
+    DeptProvider8001_App注册到EurekaServer上
+
+[33mcommit f5087a44eca93cbb5299a2f6d4a636acc1f79dbc[m
+Author: pluto <pluto@aliyun.com>
+Date:   Sat Nov 7 10:44:02 2020 +0800
+
+    测试microservicecloud-consumer-dept-80
+
+[33mcommit aec7d6a42cdc23c2440bce20325f04d7e4c15cb9[m
+Author: pluto <pluto@aliyun.com>
+Date:   Sat Nov 7 10:36:19 2020 +0800
+
+    测试microservicecloud-consumer-dept-80
+
+[33mcommit dd7bc1f97c057778166aae23a1b39a62aef36cd1[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: pluto <pluto@aliyun.com>
+Date:   Sat Nov 7 09:10:53 2020 +0800
+
+    测试microservicecloud-consumer-dept-80
+
+[33mcommit 25709d64801877664cf1a2c9a676a02bf066c244[m
+Author: pluto <pluto@aliyun.com>
+Date:   Fri Nov 6 20:24:25 2020 +0800
+
+    cnm
+
+[33mcommit ff7d4b061a60c426ef3874fc5393bcca25a18e76[m
+Author: pluto <pluto@aliyun.com>
+Date:   Fri Nov 6 19:40:02 2020 +0800
+
+    cnm
+
+[33mcommit a4105ccf0e4f6926e4f887f3604db5d2a38c63d2[m
+Author: HYF <hebing52231022@vip.qq.com>
+Date:   Thu Nov 5 20:46:47 2020 +0800
+
+    【功能】  删除1.txt
+
+[33mcommit 9e06fe2791b0dba6d4d002fb51f17185500ca465[m
+Author: pluto <pluto@aliyun.com>
+Date:   Thu Nov 5 20:29:08 2020 +0800
+
+    cnm
+
+[33mcommit ecf5eff7b65254cb2389227325c0304063bfba93[m
+Author: pluto <pluto@aliyun.com>
+Date:   Thu Nov 5 20:27:47 2020 +0800
+
+    xxxx
